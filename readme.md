@@ -1,4 +1,5 @@
-## Membangun Aplikasi Inventory Stok Menggunakan Framework Laravel 5.7 
+## Membangun Aplikasi Inventory Stok Menggunakan Framework Laravel 
+
 
 Didalam aplikasi ini terdapat fitur-fitur berikut ini :
 
